@@ -46,7 +46,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <hr>
 <p align=center>Acada Learning - Consultant, Training and Software Development</p>
-<p align=center><small>Copyrights 2022 by <a href="http://acadalearning.com/">Acada Learning and Tosin</a> </small></p>
+<p align=center><small>Copyrights 2022 by <a href="http://acadalearning.com/">Acada Learning and Tosin's</a> </small></p>
 
 </body>
 </html>
