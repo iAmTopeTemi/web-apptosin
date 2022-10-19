@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>ACADA Learning Releases Nexus Repository</name>
-	      <url>http://18.221.114.96:8081/repository/tosinreleaserepo/</url>
+	      <url>http://3.82.12.205:8081/repository/Rbc-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Tosin Snapshot Nexus Repository </name>
-	      <url>http://18.221.114.96:8081/repository/tosinwebappsnapshot/</url>
+	      <url>http://3.82.12.205:8081/repository/rbc-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
