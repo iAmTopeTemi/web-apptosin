@@ -104,7 +104,7 @@
 	      <id>nexus</id>
 	      <name>Temi Release Nexus Repository </name>
 	      <url>http://54.225.14.135:8081/repository/Release/</url>
-	    </releaseRepository>
+	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
