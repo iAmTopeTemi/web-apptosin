@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Temi practice Releases Nexus Repository</name>
-	      <url>http://54.225.14.135:8081/repository/Release/</url>
+	      <url>http://54.211.245.236:8081/repository/Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Temi Release Nexus Repository </name>
-	      <url>http://54.225.14.135:8081/repository/Release/</url>
+	      <url>http://54.211.245.236:8081/repository/Release/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
